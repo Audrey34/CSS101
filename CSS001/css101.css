@@ -1,25 +1,25 @@
-body{
-background-color: #B0B0B0;
-
-
-}
-h2{
-text-align: center;
-color: red;
-}
-h1{
-border: 5px solid blue;
-color: blue;
-text-align: center;
+body {
+  background-color: #B0B0B0;
 }
 
+h2 {
+  text-align: center;
+  color: red;
+}
 
-img{
-  height: 390px;
+h1 {
+  border: 5px solid blue;
+  color: blue;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+img {
+  height: 550px;
   width: auto;
 }
 
-
-p{font-size: 22px;
-
+p {
+  font-size: 22px;
 }
